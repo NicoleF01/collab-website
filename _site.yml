@@ -7,3 +7,9 @@ navbar:
     - text: "About"
       href: about.html
 output_dir: "."
+ouput:
+html_document:
+theme: yeti
+highlight: textmate
+toc: true
+toc_flot: true
